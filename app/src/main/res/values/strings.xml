@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">textView</string>
+    <string name="button">Increase</string>
+    <string name="round_off">round off</string>
+    <string name="okay">okay 5%</string>
+    <string name="good">good 10%</string>
+    <string name="excellent">excellent 15%</string>
+    <string name="displayAmount">tip amount  : %s</string>
+</resources>
